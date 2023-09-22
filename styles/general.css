@@ -1,0 +1,12 @@
+p {
+  margin: 0;
+}
+
+.body-element {
+  font-family: roboto, Arial;
+  margin: 0;
+  padding-bottom: 1000px;
+  padding-top: 83px;
+  padding-left: 95px;
+  background-color: whitesmoke;
+}

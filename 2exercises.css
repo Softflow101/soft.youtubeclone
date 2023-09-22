@@ -1,0 +1,441 @@
+.body-element {
+  padding-bottom: 1000px;
+}
+
+div {
+  font-family: arial;
+}
+
+p {
+  margin: 0;
+  font-family: arial;
+}
+
+.notified {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 250px;
+  border-style: solid;
+  border-color: gray;
+  border-width: 1px;
+  border-radius: 5px;
+  margin-bottom: 30px;
+}
+
+.home-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.notification-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.messages-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.messages-no,
+.notification-no,
+.home-no {
+  background-color: rgb(50, 122, 255);
+  color: white;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+}
+
+
+.general-div {
+  width: 320px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.img-div {
+  width: 58px;
+}
+
+.img {
+  width: 58px;
+  height: 58px;
+  border-radius: 50px;
+}
+
+.oliver-para {
+  font-weight: bold;
+  margin-bottom: 2px;
+}
+
+.cat-para {
+  font-size: 18px;
+  margin-bottom: 2px;
+}
+
+.friend-info {
+  margin-left: 10px;
+  flex: 1;
+}
+
+.button-div {
+  width: 100px;
+}
+
+.follow-button {
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  font-size: 17px;
+  font-weight: bold;
+  color: white;
+  background-color: rgb(90, 148, 255);
+  border: none;
+  border-radius: 5px;
+}
+
+
+.general-div2 {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: rgb(111, 80, 148);
+  align-items: center;
+  padding-left: 15px;
+  padding-right: 10px;
+  height: 45px;
+  width: 600px;
+}
+
+.download-div {
+
+}
+
+.download-button {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  background-color: rgb(111, 80, 148);
+  border-color: white;
+  border-style: solid;
+  border-width: 1px;
+  color: white;
+}
+
+.home-div2 {
+
+}
+
+.home-paragraph2 {
+  color: white;
+  font-weight: bold;
+}
+
+.search-bar {
+  height: 25px;
+  border-radius: 25px;
+  border: none;
+  width: 350px;
+  padding-left: 20px;
+  font-size: 15px;
+}
+
+.search-div {
+  height: 20px;
+}
+
+.div-item {
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 30px;;
+}
+
+.div-item1 {
+  background-color: lightblue;
+  width: 100px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.item1-paragraph {
+  background-color: black;
+  color: white;
+  display: inline-block;
+}
+
+.div-item2 {
+  background-color: lightpink;
+  width: 200px;
+  height: 70px;
+}
+
+.row1-div {
+  margin-top: 8px;
+}
+
+.row2 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.row2-div {
+  background-color: black;
+  color: white;
+}
+
+.div-general {
+  margin-left: 10px;
+  width: 440px;
+  padding-left: 15px;
+  padding-top: 10px;
+  padding-right: 25px;
+  padding-bottom: 25px;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.15);
+  border-radius: 5px;
+}
+
+.inbox-paragraph {
+  color: rgb(137, 135, 135);
+  font-weight: 550;
+}
+
+.second-div {
+  display: flex;
+  margin-top: 20px
+}
+
+.thumbnail-div {
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.thumbnail-10 {
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+}
+
+.chewy-div {
+  width: 380px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.chewy-paragraph {
+  font-weight: 800;
+  font-size: 22px;
+  flex: 1;
+ 
+}
+
+.time-paragraph {
+  color: rgb(137, 135, 135);
+}
+
+.biggest-para {
+  font-weight: 800;
+  margin-bottom: 2px;
+}
+
+.hey-para {
+  color: rgb(150, 150, 150);
+}
+
+.div-general2 {
+  margin-left: 10px;
+  width: 440px;
+  padding-left: 15px;
+  padding-top: 10px;
+  padding-right: 25px;
+  padding-bottom: 25px;
+}
+
+.general-divv {
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.15);
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  width: 490px;
+}
+
+.thumbnail-pic {
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+}
+
+.backend-div-general {
+  display: flex;
+  width: 440px;
+  margin-bottom: 30px;
+}
+
+.backend-thumbnail {
+  width: 60px;
+  margin-right: 10px;
+}
+
+.backend-text {
+  flex: 1;
+  margin-top: 5px;
+}
+
+.super-backend {
+  font-weight: bold;
+  margin-bottom: 3px;
+}
+
+.span-text {
+  font-size: 15px;
+  color: rgb(82, 100, 82);
+  font-weight: normal;
+}
+
+.what-backend {
+  line-height: 21px;
+}
+
+.gray-shade-div {
+  display: flex;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(206, 206, 206);
+  border-radius: 12px;
+  margin-top: 15px;
+  width: 350px;
+}
+
+.gray-shade {
+  width: 155px;
+  height: 90px;
+  background: rgb(206, 206, 206);
+  margin-right: 10px;
+  border-style: solid;
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+  border: none;
+}
+
+.youtube-com {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.youtube-paragraph {
+  color: rgb(82, 100, 82);
+}
+
+.backend {
+  line-height: 21px;
+  margin-top: 3px;
+}
+
+.x-div {
+  background-color: black;
+  color: white;
+  border-radius: 20px;
+  position: absolute;
+  border: none;
+  padding-left: 7px;
+  padding-right: 7px;
+  padding-top: 1px;
+  padding-bottom: 3px;
+  top: 0;
+  right: 0;
+}
+
+.square {
+  position: relative;
+  width: 320px;
+  height: 180px;
+  background-color: gray;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+
+.x-button {
+  background-color: black;
+  color: white;
+  border-radius: 30px;
+  position: absolute;
+  border: none;
+  font-size: 25px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  padding-left: 13px;
+  padding-right: 13px;
+  left: -15px;
+  top: -15px;
+}
+
+.time-div {
+  background-color: black;
+  color: white;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 8px;
+  padding-left: 8px;
+}
+
+.thumbnail-1000 {
+  display: inline-block;
+  position: relative;
+}
+
+.percentages {
+  font-family: arial;
+  position: absolute;
+  background-color: black;
+  color: white;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 10px;
+  padding-right: 10px;
+  top: 10px;
+  right: 0;
+  margin-left: 30px;
+}
+
+.add-div {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background-color: rgba(255, 255, 255, 0.7);
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.add-button {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-color: black;
+  border-style: solid;
+}

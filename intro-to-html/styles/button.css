@@ -1,0 +1,283 @@
+.request-button {
+    background-color: black;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cursor: pointer;
+    border: none;
+    transition: opacity 0.15s;
+  }
+
+  .request-button:hover {
+    opacity: 0.8;
+  }
+
+  .add-button {
+    background-color: rgb(255, 216, 20);
+    padding-left: 50px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 50px;
+    border-radius: 75px;
+    border: none;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size:13px;
+    transition: background-color 0.15s;
+  }
+
+  .add-button:hover {
+    background-color: rgb(236, 199, 15);
+  }
+
+  .add-button:active {
+    opacity: 0.5;
+  }
+
+  .sign-button {
+    background-color: rgb(46, 164, 79);
+    color: white;
+    border: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: box-shadow 0.15s;
+  }
+
+  .sign-button:hover {
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.15);
+  }
+
+  .get-button {
+    background-color: rgb(121, 82, 179);
+    color: white;
+    border: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.15;
+  }
+
+  .get-button:hover {
+    background-color: rgb(97, 62, 148);
+  }
+
+  .download-button {
+    border-color: rgb(108, 117, 125);
+    background-color: white;
+    color:rgb(108, 117, 125);
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 3px;
+    border: solid;
+    margin-left: 5px;
+    border-width: 1px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.15s,
+     color 0.15s;
+  }
+
+  .download-button:hover {
+    background-color: rgb(108, 117, 125);
+    color: white;
+  }
+
+  .apply-button {
+    background-color: rgb(10, 102, 194);
+    color: white;
+    border-radius: 100px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    transition: background-color 0.15s;
+  }
+
+  .apply-button:hover {
+    background-color: rgb(13, 73, 134);
+  }
+
+  .save-button {
+    background-color: white;
+    border-color: rgb(10, 102, 194);
+    color:rgb(10, 102, 194);
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    border-style: solid;
+    border-radius: 35px;
+    border-width: 1.3px;
+    font-weight: bold;
+    margin-left: 5px;
+    cursor: pointer;
+  }
+
+  .save-button:hover {
+    border-width: 2px;
+    background-color: rgb(232, 249, 255);
+  }
+
+  .nike-paragraph {
+    font-weight: bold;
+    font-size:22px;
+    margin: 10px;
+  }
+
+  .back-paragraph {
+    color: rgb(0, 113, 133);
+    cursor: pointer;
+    margin: 10px;
+  }
+
+  .back-paragraph:hover {
+    color: rgb(189, 73, 0);
+  }
+  
+  .stock-paragraph {
+    color: rgb(0, 118, 0);
+    font-weight: bold;
+    margin-left: 10px;
+  }
+
+  .free-paragraph {
+    margin-left: 10px;
+  }
+
+  .buy-paragraph {
+    background-color: rgb(255, 164, 28);
+    padding-left: 25px;
+    padding-top: 8px;
+    padding-bottom: 7px;
+    padding-right: 25px;
+    font-size: 15px;
+    border-radius: 75px;
+    border: none;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size:15px;
+  }
+
+  .buy-paragraph:hover {
+    background-color:rgb(255, 153, 0);
+  }
+
+  .buy-paragraph:active {
+    opacity: 0.5;
+  }
+
+  .stretch-button {
+    height: 25px;
+    width: 70px;
+    font-size: 15px;
+    background-color: green;
+    color: white;
+    border: none;
+    transition: width 0.5s,
+     height 0.5s;
+  }
+
+  .stretch-button:hover {
+    height: 50px;
+    width: 120px;
+  }
+
+  .shadow-button {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-size: 15px;
+    background-color: green;
+    color: white;
+    border: none;
+    margin-top: 3px;
+    margin-left: 3px;
+  }
+
+  .shadow-button:active {
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+
+  .one-button {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-size: 15px;
+    background-color: green;
+    color: white;
+    border: none;
+    margin-left: 10px;
+    margin-right: 5px;
+    transition: padding 0.15s,
+     margin 0.15s;
+  }
+
+  .one-button:hover {
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-left: 5px;
+    margin-right: 0px;
+  }
+
+  .two-button {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-size: 15px;
+    background-color: green;
+    color: white;
+    border: none;
+    margin-left: 5px;
+    margin-right: 5px;
+    transition: padding 0.15s,
+     margin 0.15s;
+  }
+
+  .two-button:hover {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+
+  .three-button {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-size: 15px;
+    background-color: green;
+    color: white;
+    border: none;
+    margin-left: 5px;
+    transition: padding 0.15s,
+     margin 0.15s;
+  }
+
+  .three-button:hover {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 0px; 
+  }

@@ -1,0 +1,173 @@
+p {
+    margin: 0;
+  }
+
+  .tahoma-font {
+    font-family: Tahoma;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  .biggest-paragraph {
+    font-family: arial;
+    font-weight: bold;
+    margin-bottom: 4px;
+  }
+
+  .sale-end {
+    font-style: italic;
+    color: red;
+    margin-bottom: 30px;
+  }
+
+  .topic-html {
+    font-family: verdana;
+    font-weight: bold;
+  }
+
+  .beginner-pro {
+    color: rgb(145, 145, 145);
+    font-family: verdana;
+    font-size: 15px;
+    margin-bottom: 20px;
+  }
+
+  .course-skills {
+    font-family: verdana;
+    width: 300px;
+  }
+
+  .get-button {
+    color: white;
+    background: green;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    margin-top: 20px;
+    border-radius: 5px;
+    font-family: verdana;
+
+  }
+
+  .business-shopping {
+    font-family: arial;
+    margin-top: 40px;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+  }
+
+  .apple-work {
+    text-align:center;
+    font-family: arial;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+  }
+
+  .learn-more {
+    text-align: center;
+    color: blue;
+  }
+
+  .new-text {
+    text-align: center;
+    color: orange;
+    margin-top: 50px;
+    font-weight: bold;
+    font-family: arial;
+  }
+
+  .mac-book {
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 8px;
+    font-family: arial;
+  }
+
+  .super-charged {
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: arial;
+  }
+
+  .sales-price {
+    text-align: center;
+    margin-top: 8px;
+    font-family: arial;
+  }
+
+  .buy-button {
+    font-family: arial;
+    margin-left: 600px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 15px;
+    margin-top: 10px;
+    border: none;
+    color: white;
+    background-color: rgb(16, 110, 190);
+  }
+
+  .h-paragraph {
+    margin-top: 300px;
+  }
+
+  .usd-money {
+    margin-top: 30px;
+    font-family: arial;
+    font-size: 30px;
+  }
+
+  .us-d {
+    font-size: 15px;
+    color: rgb(120, 120, 120);
+  }
+  .commission-percentage {
+    font-family: arial;
+    color: green;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  .after-percentage {
+    color: rgb(120, 120, 120);
+    font-family: arial;
+    margin-bottom: 30px;
+  }
+
+  .percentage-subtract {
+    color: rgb(235, 0, 0);
+  }
+
+  .free-codecamp {
+    font-weight: bold;
+    font-family: arial;
+  }
+
+  .free-1h {
+    color: rgb(120, 120, 120);
+    font-weight: normal;
+  }
+
+  .web-developer {
+    font-family: arial;
+    line-height: 22px;
+    margin-top: 4px;
+    width: 500px;
+  }
+
+  .top-skills {
+    font-family: arial;
+    margin-top: 20px;
+  }
+
+  .chp-it {
+    color: rgb(65, 162, 203);
+  }
